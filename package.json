@@ -1,6 +1,6 @@
 {
   "name": "spring-movies-client",
-  "homepage": "https://<USERNAME>.github.io/<REPO NAME>",
+  "homepage": "https://jintekiwarrior.github.io/spring-movies-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,8 @@
     "react-router-dom": "^4.3.1",
     "resolve": "1.6.0",
     "url-loader": "0.6.2",
-    "uuid": "^7.0.3"
+    "uuid": "^7.0.3",
+    "whatwg-fetch": "^3.6.2"
   },
   "scripts": {
     "start": "node scripts/start.js",
